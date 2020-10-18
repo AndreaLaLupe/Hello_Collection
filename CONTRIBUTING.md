@@ -6,6 +6,7 @@
 - In case a language has different variations, the FileName must reflect which variation the language corresponds. For example: "Assembly(TurboAssembler).asm", "Assembly(MacroAssembler).asm"
 - The file must contain a Hello World Program
 - The file must compile
+- The text printed must be "Hello World!"
 - This repo is not limited to programming languages, Markup languages like HTML or Query languages like SQL are welcome as well.
 
 ## How to Collaborate:
