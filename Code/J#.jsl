@@ -1,0 +1,9 @@
+package hks;
+import System.*;
+public class HelloWorld
+{
+	public static void main()
+	{
+		Console.WriteLine("Hello World!");
+	}
+}
